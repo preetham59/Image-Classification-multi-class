@@ -1,1 +1,1 @@
-Look for the google drive link(Augmented Images) on the right side of repository
+Look for the google drive link(Augmented Images) in the about section of repository
